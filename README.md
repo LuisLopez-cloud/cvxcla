@@ -76,7 +76,8 @@ make install
 ```
 
 to replicate the virtual environment we have defined in [pyproject.toml](pyproject.toml)
-and locked in [poetry.lock](poetry.lock).
+and locked in [poetry.lock](poetry.lock). Luis was here...
+
 
 ## Jupyter
 
